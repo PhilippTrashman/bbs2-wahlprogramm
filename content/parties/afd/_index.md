@@ -1,5 +1,6 @@
 ---
 title: "Alternative für Deutschland"
+description: "Zusammenfassung der Alternative für Deutschland"
 weight: 1
 draft: false
 ---

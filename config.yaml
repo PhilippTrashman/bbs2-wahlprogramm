@@ -1,6 +1,6 @@
 baseURL: 'https://philipptrashman.github.io/bbs2-wahlprogramm/'
-title: 'Wahl Helfer 2025'
-theme: 'hugo-theme-relearn'
+title: 'Deutsche Wahlprogramme 2025'
+theme: 'paper-mod'
 
 enableInlineShortcodes: true
 enableEmoji: true
@@ -10,54 +10,39 @@ defaultContentLanguage: 'de'
 
 languages:
   de:
-    languageName: Deutsch
+    languageName: "Deutsch"
     weight: 1
     menu:
       main:
-        - identifier: home
-          name: Home
+        - name: Home
           url: /
           weight: 1
-        - identifier: parties
-          name: Parteien
+        - name: Parteien
           url: /parties
           weight: 5
 
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON
+
 params:
-  custom_background_color: null
-  custom_font_color: null
-  showVisitedLinks: false
-  themeVariant:
-  - auto:
-    - zen-light
-    - zen-dark
-    identifier: zen-auto
-    name: Zen Light/Dark
-  - identifier: zen-light
-  - identifier: zen-dark
-    
-  
-  menu_style: slide-menu
-  menu_exclusions: 
-    - archives,
-    - archive
-    - tags
-    - blog
-    - entry
-    - post
-    - posts
+  editPost:
+    URL: "https://google.com/"
+    Text: "Suggest Changes" # edit text
+    appendFilePath: true
 
   assets:
     disableHLJS: true
 
-
 markup:
-  tableOfContents:
-    startLevel: 2
-    endLevel: 3
-      
   goldmark:
     renderer:
       unsafe: true
   highlight:
     noClasses: false
+
+permalinks:
+  posts: /:year/:month/:day/:slug/
+  parties: /parties/:slug/
