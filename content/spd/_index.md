@@ -97,3 +97,6 @@ draft: false
 ### Wehrpflicht
 - Modernisierung der Streitkräfte
 - Keine Stellungnahme zur Wiedereinführung der Wehrpflicht
+
+## Aus der Quelle:
+https://www.spd.de/fileadmin/Dokumente/Beschluesse/Programm/2025_SPD_Regierungsprogramm.pdf
