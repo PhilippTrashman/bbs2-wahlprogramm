@@ -59,3 +59,7 @@ draft: false
 - **Datenschutz stärken**: Begrenzung von Überwachungsmöglichkeiten.
 - **Digitale Souveränität**: Einsatz von Open-Source-Technologien.
 - **Recht auf analoges Leben**: Beibehaltung von Bargeld und analogen Prozessen.
+
+## Quelle
+
+- [Wahlprogramm der AfD](https://www.afd.de/wp-content/uploads/2024/11/Leitantrag-Bundestagswahlprogramm-2025.pdf)
