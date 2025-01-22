@@ -99,4 +99,4 @@ draft: false
 - Keine Stellungnahme zur Wiedereinführung der Wehrpflicht
 
 #### Aus der Quelle:
-https://www.spd.de/fileadmin/Dokumente/Beschluesse/Programm/2025_SPD_Regierungsprogramm.pdf
+[Wahlprogramm 2025 der CDU](https://www.spd.de/fileadmin/Dokumente/Beschluesse/Programm/2025_SPD_Regierungsprogramm.pdf)

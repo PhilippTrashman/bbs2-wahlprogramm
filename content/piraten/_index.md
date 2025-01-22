@@ -1,5 +1,6 @@
 ---
 title: "Piratenpartei Deutschland"
+linkTitle: "Piraten"
 weight: 1
 draft: false
 ---
