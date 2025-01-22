@@ -53,3 +53,6 @@ draft: false
 ## Wertebasierte Außenpolitik
 - Die europäische Außenpolitik sollte sich auf relevante Werte stützen: Euro, Dollar, Rubel, D-Mark.
 - Wer behauptet, deutsche und europäische Außenpolitik würden sich um etwas anderes kümmern, soll für moralbefreiten, performativen Aktivismus eingesperrt werden (z.B. Baerbock).
+
+## Aus der Quelle:
+- [Die Partei Europawahlprogramm 2024](https://www.die-partei.de/programm/)
