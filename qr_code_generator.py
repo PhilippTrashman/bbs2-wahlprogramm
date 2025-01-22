@@ -26,7 +26,7 @@ def generate_qr_code_from_folders():
         loc = os.path.join(file_location, '/content/')
         loc = file_location + '/content/' + folder
         if os.path.isdir(loc):
-            generate_qr_code(loc, folder)
+            generate_qr_code(base_url + folder, folder)
         else:
             print(f"{loc} is not a folder")
 if __name__ == "__main__":
