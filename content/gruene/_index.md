@@ -3,6 +3,13 @@ title: Die Grünen
 weight: 1
 draft: false
 ---
+<style>
+    .figure-image {
+        width: 50% !important
+    }
+</style>
+![Die Grünen](images/die_grünen.png)
+
 ## In die Zukunft wachsen -- ökologisch und ökonomisch
 
 ### A. Eine starke Wirtschaft für sichere Jobs

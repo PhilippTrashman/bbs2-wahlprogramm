@@ -4,7 +4,13 @@ linkTitle: "BSW"
 weight: 1
 draft: false
 ---
----
+<style>
+    .figure-image {
+        width: 50% !important
+    }
+</style>
+![BSW](images/bsw.png)
+
 ### 1. Frieden und Sicherheit
 - Abrüstung statt Hochrüstung.
 - Keine Waffenlieferungen in Kriegsgebiete.

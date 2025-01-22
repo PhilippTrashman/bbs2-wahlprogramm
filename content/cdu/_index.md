@@ -4,6 +4,13 @@ linkTitle: "CDU"
 weight: 1
 draft: false
 ---
+<style>
+    .figure-image {
+        width: 50% !important
+    }
+</style>
+
+![CDU](images/cdu_csu.png)
 
 ## Wirtschaft und Arbeit
 

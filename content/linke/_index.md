@@ -3,6 +3,13 @@ title: "Die Linke"
 weight: 1
 draft: false
 ---
+<style>
+    .figure-image {
+        width: 50% !important
+    }
+</style>
+![Die Linke](images/linke.png)
+
 
 ## Arbeit und soziale Gerechtigkeit
 - Mindestlohn auf 15 Euro pro Stunde erhöhen.
