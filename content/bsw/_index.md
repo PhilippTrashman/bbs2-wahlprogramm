@@ -4,7 +4,7 @@ linkTitle: "BSW"
 weight: 1
 draft: false
 ---
-
+---
 ### 1. Frieden und Sicherheit
 - Abrüstung statt Hochrüstung.
 - Keine Waffenlieferungen in Kriegsgebiete.
@@ -49,3 +49,8 @@ draft: false
 - Keine EU-Zentralisierung: Kompetenzen zurück in die Mitgliedsstaaten.
 - Förderung einer souveränen EU, die Frieden und Kooperation stärkt.
 - Ablehnung eines EU-Beitritts der Ukraine.
+
+---
+
+### Aus der Quelle:
+ - [BSW Wahlprogramm 2025 (PDF)](https://bsw-vg.de/wp-content/themes/bsw/assets/downloads/BSW%20Wahlprogramm%202025.pdf)
