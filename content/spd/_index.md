@@ -1,5 +1,5 @@
 ---
-title: "Wahlprogramm der SPD"
+title: "Sozialdemokratische Partei Deutschlands"
 linkTitle: "SPD"
 weight: 1
 draft: false
