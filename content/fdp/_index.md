@@ -1,5 +1,6 @@
 ---
 title: "Freie Demokratische Partei"
+linkTitle: "FDP"
 weight: 1
 draft: false
 ---
