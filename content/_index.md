@@ -1,8 +1,8 @@
 ---
-title: "Wahlprogramm 2025"
+title: "Willkommen auf unserer Plattform zur Bundestagswahl 2025!"
+linkTitle: "Wahlprogramm 2025"
 weight: 1
 ---
-# Willkommen auf unserer Plattform zur Bundestagswahl 2025!
 
 Unsere Website verfolgt das Ziel, eine **unbewertete und objektive Wiedergabe der Wahlprogramme** zur Bundestagswahl 2025 bereitzustellen. Wir möchten Lehrerinnen und Lehrern sowie Schülerinnen und Schülern ermöglichen, sich neutral und fundiert mit den politischen Positionen der Parteien auseinanderzusetzen.
 
