@@ -18,7 +18,8 @@ draft: false
 - Boni sind selbstverständlich ausgenommen.
 
 ## Eine Atombombe für Europa
-- Die PARTEI fordert den Bau von zwei deutschen Atombomben, um einen Schritt weiter zu sein als die etablierten Parteien.
+- Bereits in 2019 den Bau einer Atombombe gefordert (noch lange vor Joschka «Arschloch» Fischer und Katarina Barley).
+- Die PARTEI fordert den Bau von zwei deutschen Atombomben, um einen Schritt weiter zu sein als die anderen unseriösen Großparteien.
 
 ## Bierpreisbremse
 - Einführung einer EU-weiten Bierpreisbremse (0,5 L: 3 Euro).
