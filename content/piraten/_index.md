@@ -5,6 +5,13 @@ weight: 10
 draft: false
 ---
 
+<style>
+    .figure-image {
+        width: 50% !important
+    }
+</style>
+![BSW](images/die_piraten.png)
+
 ## Schutz für Whistleblowern!
 - keine Einteilung in gute und schlechte Whistleblower
 - allgemeine gesetzliche Regelungen zum Schutz von Whistleblowern, da sich jeder Whistleblower zum jetzigen Zeitpunkt in strafrechtliche Unwägbarkeiten begibt.
@@ -45,3 +52,7 @@ draft: false
 
 ## Rentenpolitik
 - Alle steuerpflichtigen Einkommen und Kapitalerträge werden zur Zahlung von Rentenbeiträgen verpflichtet.
+
+
+## Aus der Quelle:
+[Die Piratenpartei Wahl- und Grundsatzprogramme](https://www.piratenpartei.de/partei/wahl-und-grundsatzprogramme/)

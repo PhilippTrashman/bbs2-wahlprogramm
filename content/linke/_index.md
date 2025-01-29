@@ -49,3 +49,7 @@ draft: false
 - Einführung von Vermögens- und Milliardärssteuern.
 - Entlastung kleiner und mittlerer Einkommen.
 - Höhere Besteuerung von großen Konzernen und Reichen.
+
+## Aus der Quelle:
+[DIE DA OBEN!: Das will DIE LINKE für dich! | Bundestagswahl 2025 (YouTube)](https://www.youtube.com/watch?v=aPwc9sN53sM)  
+[Wahlprogramm Die Linke zur Bundestagswahl 2025](https://www.die-linke.de/bundestagswahl-2025/wahlprogramm/)

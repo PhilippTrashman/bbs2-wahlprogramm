@@ -58,5 +58,5 @@ draft: false
 
 ---
 
-### Aus der Quelle:
+## Aus der Quelle:
  - [BSW Wahlprogramm 2025 (PDF)](https://bsw-vg.de/wp-content/themes/bsw/assets/downloads/BSW%20Wahlprogramm%202025.pdf)

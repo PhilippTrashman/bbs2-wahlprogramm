@@ -5,6 +5,13 @@ weight: 10
 draft: false
 ---
 
+<style>
+    .figure-image {
+        width: 50% !important
+    }
+</style>
+![BSW](images/fdp.png)
+
 ## Präambel: Alles lässt sich ändern
 Die FDP sieht große Herausforderungen wie bedrohten Wohlstand, Bildungsdefizite und zunehmende Polarisierung. Sie strebt eine Politik an, die auf Freiheit, Innovation und Effizienz basiert, um Deutschlands Potenziale zu entfalten. Ziel ist ein schlanker, funktionierender Staat, der Raum für individuelle Entfaltung schafft.
 

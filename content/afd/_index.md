@@ -4,6 +4,12 @@ linkTitle: "AFD"
 weight: 10
 draft: false
 ---
+<style>
+    .figure-image {
+        width: 50% !important
+    }
+</style>
+![BSW](images/afd.png)
 
 ## Wirtschaft & Infrastruktur
 
@@ -61,6 +67,6 @@ draft: false
 - **Digitale Souveränität**: Einsatz von Open-Source-Technologien.
 - **Recht auf analoges Leben**: Beibehaltung von Bargeld und analogen Prozessen.
 
-## Quelle
+## Aus der Quelle:
 
 - [Wahlprogramm der AfD](https://www.afd.de/wp-content/uploads/2024/11/Leitantrag-Bundestagswahlprogramm-2025.pdf)

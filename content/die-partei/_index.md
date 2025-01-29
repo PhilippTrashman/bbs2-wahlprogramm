@@ -8,6 +8,7 @@ draft: false
         width: 50% !important
     }
 </style>
+![BSW](images/die_partei.png)
 
 
 ## 1er-Abi für Alle!
