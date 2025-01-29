@@ -9,7 +9,7 @@ draft: false
         width: 50% !important
     }
 </style>
-![BSW](images/afd.png)
+![AFD](images/header/afd.png)
 
 ## Wirtschaft & Infrastruktur
 

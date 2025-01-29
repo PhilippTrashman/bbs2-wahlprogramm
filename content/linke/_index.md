@@ -8,7 +8,7 @@ draft: false
         width: 50% !important
     }
 </style>
-![Die Linke](images/linke.png)
+![Die Linke](images/header/linke.png)
 
 
 ## Arbeit und soziale Gerechtigkeit

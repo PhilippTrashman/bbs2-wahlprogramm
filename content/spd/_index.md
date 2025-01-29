@@ -9,7 +9,7 @@ draft: false
         width: 50% !important
     }
 </style>
-![SPD](images/spd.png)
+![SPD](images/header/spd.png)
 
 
 ### Grundsatzprogramm

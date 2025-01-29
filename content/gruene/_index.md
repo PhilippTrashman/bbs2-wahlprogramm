@@ -8,7 +8,7 @@ draft: false
         width: 50% !important
     }
 </style>
-![Die Grünen](images/die_gruenen.png)
+![Die Grünen](images/header/die_gruenen.png)
 
 ## In die Zukunft wachsen -- ökologisch und ökonomisch
 

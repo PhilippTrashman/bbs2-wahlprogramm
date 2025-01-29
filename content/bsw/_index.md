@@ -9,7 +9,7 @@ draft: false
         width: 50% !important
     }
 </style>
-![BSW](images/bsw.png)
+![BSW](images/header/bsw.png)
 
 ### 1. Frieden und Sicherheit
 - Abrüstung statt Hochrüstung.

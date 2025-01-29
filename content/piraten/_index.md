@@ -10,7 +10,7 @@ draft: false
         width: 50% !important
     }
 </style>
-![BSW](images/die_piraten.png)
+![Die Piraten](images/header/die_piraten.png)
 
 ## Schutz für Whistleblowern!
 - keine Einteilung in gute und schlechte Whistleblower

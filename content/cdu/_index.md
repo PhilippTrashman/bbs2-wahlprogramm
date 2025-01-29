@@ -10,7 +10,7 @@ draft: false
     }
 </style>
 
-![CDU](images/cdu_csu.png)
+![CDU](images/header/cdu_csu.png)
 
 ## Wirtschaft und Arbeit
 
