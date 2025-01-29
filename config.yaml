@@ -1,5 +1,5 @@
 baseURL: 'https://philipptrashman.github.io/bbs2-wahlprogramm/'
-title: 'Wahl Helfer 2025'
+title: 'Wahlhelfer 2025'
 theme: 'hugo-theme-relearn'
 
 enableInlineShortcodes: true
