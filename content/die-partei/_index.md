@@ -1,8 +1,15 @@
 ---
 title: "Die Partei"
-weight: 1
+weight: 10
 draft: false
 ---
+<style>
+    .figure-image {
+        width: 50% !important
+    }
+</style>
+![Die Partei](images/header/die_partei.png)
+
 
 ## 1er-Abi für Alle!
 - Wiedereinführung des Notabiturs: Schülerinnen und Schüler sollen nur eine halbe Stunde an der Tafel geprüft werden, mit Lösungen, die vorher auf TikTok veröffentlicht werden.

@@ -1,11 +1,18 @@
 ---
 title: "Piratenpartei Deutschland"
 linkTitle: "Piraten"
-weight: 1
+weight: 10
 draft: false
 ---
 
-## Schutz vor Whistleblowern!
+<style>
+    .figure-image {
+        width: 50% !important
+    }
+</style>
+![Die Piraten](images/header/die_piraten.png)
+
+## Schutz für Whistleblowern!
 - keine Einteilung in gute und schlechte Whistleblower
 - allgemeine gesetzliche Regelungen zum Schutz von Whistleblowern, da sich jeder Whistleblower zum jetzigen Zeitpunkt in strafrechtliche Unwägbarkeiten begibt.
 
@@ -31,7 +38,7 @@ draft: false
 - Förderung von Soft- und Hardware ein, die von allen uneingeschränkt benutzt, untersucht, verbreitet und verändert werden kann.
 
 ## Online-Sprechstunden zwischen Arzt und Patient fördern
-- Einführung von Videosprechstunden ein, die mittels dafür einzurichtender höchster Datensicherheit entsprechender Plattformen das Arzt-Patienten-Gespräch visuell und akustisch im Rahmen des geltenden Rechts ermöglichen.
+- Einführung von Videosprechstunden, die mittels dafür einzurichtender höchster Datensicherheit entsprechender Plattformen das Arzt-Patienten-Gespräch visuell und akustisch im Rahmen des geltenden Rechts ermöglichen.
 
 ## Internet ist Menschenrecht - auch im Strafvollzug
 - Die Piratenpartei setzt sich dafür ein, dass Strafgefangenen der Zugang zum Internet ermöglicht wird.
@@ -45,3 +52,7 @@ draft: false
 
 ## Rentenpolitik
 - Alle steuerpflichtigen Einkommen und Kapitalerträge werden zur Zahlung von Rentenbeiträgen verpflichtet.
+
+
+## Aus der Quelle:
+[Die Piratenpartei Wahl- und Grundsatzprogramme](https://www.piratenpartei.de/partei/wahl-und-grundsatzprogramme/)

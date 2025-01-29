@@ -1,9 +1,16 @@
 ---
 title: "Sozialdemokratische Partei Deutschlands"
 linkTitle: "SPD"
-weight: 1
+weight: 10
 draft: false
 ---
+<style>
+    .figure-image {
+        width: 50% !important
+    }
+</style>
+![SPD](images/header/spd.png)
+
 
 ### Grundsatzprogramm
 
@@ -98,5 +105,9 @@ draft: false
 - Modernisierung der Streitkräfte
 - Keine Stellungnahme zur Wiedereinführung der Wehrpflicht
 
-#### Aus der Quelle:
+### Geschichte der SPD
+
+![Geschichte der SPD](images/spd-geschichte.png)
+
+## Aus der Quelle:
 [Wahlprogramm 2025 der CDU](https://www.spd.de/fileadmin/Dokumente/Beschluesse/Programm/2025_SPD_Regierungsprogramm.pdf)

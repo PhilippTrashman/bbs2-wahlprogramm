@@ -1,8 +1,15 @@
 ---
 title: "Die Linke"
-weight: 1
+weight: 10
 draft: false
 ---
+<style>
+    .figure-image {
+        width: 50% !important
+    }
+</style>
+![Die Linke](images/header/linke.png)
+
 
 ## Arbeit und soziale Gerechtigkeit
 - Mindestlohn auf 15 Euro pro Stunde erhöhen.
@@ -42,3 +49,7 @@ draft: false
 - Einführung von Vermögens- und Milliardärssteuern.
 - Entlastung kleiner und mittlerer Einkommen.
 - Höhere Besteuerung von großen Konzernen und Reichen.
+
+## Aus der Quelle:
+[DIE DA OBEN!: Das will DIE LINKE für dich! | Bundestagswahl 2025 (YouTube)](https://www.youtube.com/watch?v=aPwc9sN53sM)  
+[Wahlprogramm Die Linke zur Bundestagswahl 2025](https://www.die-linke.de/bundestagswahl-2025/wahlprogramm/)

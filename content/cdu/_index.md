@@ -1,9 +1,16 @@
 ---
 title: "Christlich Demokratische Union Deutschlands"
 linkTitle: "CDU"
-weight: 1
+weight: 10
 draft: false
 ---
+<style>
+    .figure-image {
+        width: 50% !important
+    }
+</style>
+
+![CDU](images/header/cdu_csu.png)
 
 ## Wirtschaft und Arbeit
 

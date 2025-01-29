@@ -1,10 +1,16 @@
 ---
 title: "Bündnis Sahra Wagenknecht"
 linkTitle: "BSW"
-weight: 1
+weight: 10
 draft: false
 ---
----
+<style>
+    .figure-image {
+        width: 50% !important
+    }
+</style>
+![BSW](images/header/bsw.png)
+
 ### 1. Frieden und Sicherheit
 - Abrüstung statt Hochrüstung.
 - Keine Waffenlieferungen in Kriegsgebiete.
@@ -52,5 +58,5 @@ draft: false
 
 ---
 
-### Aus der Quelle:
+## Aus der Quelle:
  - [BSW Wahlprogramm 2025 (PDF)](https://bsw-vg.de/wp-content/themes/bsw/assets/downloads/BSW%20Wahlprogramm%202025.pdf)

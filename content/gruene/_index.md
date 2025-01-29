@@ -1,8 +1,15 @@
 ---
 title: Die Grünen
-weight: 1
+weight: 10
 draft: false
 ---
+<style>
+    .figure-image {
+        width: 50% !important
+    }
+</style>
+![Die Grünen](images/header/die_gruenen.png)
+
 ## In die Zukunft wachsen -- ökologisch und ökonomisch
 
 ### A. Eine starke Wirtschaft für sichere Jobs
@@ -208,3 +215,6 @@ draft: false
 
     -   Schaffung finanzieller Spielräume für notwendige Investitionen
         ohne untragbare Verschuldung.
+
+## Aus der Quelle:
+[Die Grünen Wahlprogramm 2025 (PDF)](https://cms.gruene.de/uploads/assets/20241216_BTW25_Programmentwurf_DINA4_digital.pdf)
