@@ -1,6 +1,6 @@
 ---
 title: Die Grünen
-weight: 1
+weight: 10
 draft: false
 ---
 ## In die Zukunft wachsen -- ökologisch und ökonomisch

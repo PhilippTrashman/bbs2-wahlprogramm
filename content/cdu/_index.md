@@ -1,7 +1,7 @@
 ---
 title: "Christlich Demokratische Union Deutschlands"
 linkTitle: "CDU"
-weight: 1
+weight: 10
 draft: false
 ---
 

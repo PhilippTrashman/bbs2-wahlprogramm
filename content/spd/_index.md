@@ -1,7 +1,7 @@
 ---
 title: "Sozialdemokratische Partei Deutschlands"
 linkTitle: "SPD"
-weight: 1
+weight: 10
 draft: false
 ---
 

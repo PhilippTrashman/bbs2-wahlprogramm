@@ -1,6 +1,6 @@
 ---
 title: "Die Partei"
-weight: 1
+weight: 10
 draft: false
 ---
 
