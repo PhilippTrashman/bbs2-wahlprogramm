@@ -1,5 +1,5 @@
 ---
-title: "Alternative für Deutschland"
+title: "Die Grünen"
 linkTitle: "Plakat"
 weight: 10
 draft: false
