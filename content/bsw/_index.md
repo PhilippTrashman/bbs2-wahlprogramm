@@ -1,7 +1,7 @@
 ---
 title: "Bündnis Sahra Wagenknecht"
 linkTitle: "BSW"
-weight: 1
+weight: 10
 draft: false
 ---
 <style>

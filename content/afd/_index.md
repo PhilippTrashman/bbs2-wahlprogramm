@@ -1,7 +1,7 @@
 ---
 title: "Alternative für Deutschland"
 linkTitle: "AFD"
-weight: 1
+weight: 10
 draft: false
 ---
 
