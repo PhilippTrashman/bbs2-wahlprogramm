@@ -1,6 +1,6 @@
 ---
 title: "Alternative für Deutschland"
-linkTitle: "AFD"
+linkTitle: "AfD"
 weight: 10
 draft: false
 ---
@@ -70,3 +70,4 @@ draft: false
 ## Aus der Quelle:
 
 - [Wahlprogramm der AfD](https://www.afd.de/wp-content/uploads/2024/11/Leitantrag-Bundestagswahlprogramm-2025.pdf)
+- [Von der AfD zusammengefasstes Wahlprogramm](https://www.afd.de/wp-content/uploads/2025/01/2025-01-23-_-AfD-Flugblatt-_-20-Kernforderungen-aus-Bundestagswahlprogramm-_-Webversion.pdf)
