@@ -7,12 +7,18 @@ weight: 2
 
 ## Dos für Lehrer:innen
 
-### Neutral bleiben (Überwältigungsverbot)
+### Keine Meinung vorschreiben (Überwältigungsverbot)
 
 - Keine politischen Meinungen oder Bewertungen vorgeben.
 - Schüler:innen nicht beeinflussen oder in ihrer freien Meinungsbildung einschränken.
 - Informationen sachlich und ausgewogen präsentieren.
 - Unterschiedliche Perspektiven zu kontroversen Themen darstellen.
+- Rechtswiedrige meinungen natürlich auch als diese darstellen
+
+### Problematische Inhalte im Kontext einordnen
+
+- Rechtsextreme oder verfassungsfeindliche Ansichten kritisch erläutern (z. B. Verletzung der Menschenwürde, Verstoß gegen das Grundgesetz).
+- Hinweise auf Beobachtung durch den Verfassungsschutz geben und Hintergründe erklären.
 
 ### Kontroversität ermöglichen (Kontroversitätsgebot)
 
@@ -30,10 +36,7 @@ weight: 2
 - Bezug auf Werte des Grundgesetzes und der niedersächsischen Verfassung (Menschenwürde, Demokratie, Toleranz, Rechtsstaatlichkeit).
 - Grenze der Meinungsfreiheit erklären (z. B. bei verfassungsfeindlichen oder diskriminierenden Positionen).
 
-### Problematische Inhalte im Kontext einordnen
 
-- Rechtsextreme oder verfassungsfeindliche Ansichten kritisch erläutern (z. B. Verletzung der Menschenwürde, Verstoß gegen das Grundgesetz).
-- Hinweise auf Beobachtung durch den Verfassungsschutz geben und Hintergründe erklären.
 
 ### Förderung von Meinungsvielfalt
 
