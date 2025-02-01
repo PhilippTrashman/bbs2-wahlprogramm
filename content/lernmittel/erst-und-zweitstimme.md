@@ -8,7 +8,7 @@ weight: 3
 
 
 
-Mit der Erststimme wählen die Bürgerinnen und Bürger einen Direktkandidaten aus ihrem Wahlkreis. Deutschland ist in 299 Wahlkreise aufgeteilt, und in jedem dieser Wahlkreise wird ein Kandidat direkt in den Bundestag gewählt. Das Wahlsystem folgt hierbei dem Prinzip der relativen Mehrheitswahl: Der Kandidat mit den meisten Stimmen in einem Wahlkreis gewinnt das Direktmandat.
+Mit der Erststimme wählen die Bürgerinnen und Bürger einen Direktkandidaten aus ihrem Wahlkreis. Deutschland ist in 299 Wahlkreise aufgeteilt, und in jedem dieser Wahlkreise wird eine Kandidatin oder ein Kanditat direkt in den Bundestag gewählt. Das Wahlsystem folgt hierbei dem Prinzip der relativen Mehrheitswahl: Die Kanditatin oder der Kandidat mit den meisten Stimmen in einem Wahlkreis gewinnt das Direktmandat.
 
 Die Erststimme hat folgende Funktionen:
 
