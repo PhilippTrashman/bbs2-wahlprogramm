@@ -10,7 +10,7 @@ weight: 2
 ### Keine Meinung vorschreiben (Überwältigungsverbot)
 
 - Keine politischen Meinungen oder Bewertungen vorgeben.
-- Schüler:innen nicht beeinflussen oder in ihrer freien Meinungsbildung einschränken.
+- Schülerinnen und Schülern nicht beeinflussen oder in ihrer freien Meinungsbildung einschränken.
 - Informationen sachlich und ausgewogen präsentieren.
 - Unterschiedliche Perspektiven zu kontroversen Themen darstellen.
 - Rechtswiedrige meinungen natürlich auch als diese darstellen
@@ -77,11 +77,11 @@ weight: 2
 ### Keine Ausgrenzung von Meinungen
 
 - Alle Meinungen innerhalb der demokratischen Werteordnung respektieren.
-- Schüler:innen nicht für ihre Ansichten diskriminieren oder bloßstellen.
+- Schülerinnen und Schülern nicht für ihre Ansichten diskriminieren oder bloßstellen.
 
 ### Keine Überwältigung oder Manipulation
 
-- Kein moralischer oder emotionaler Druck auf Schüler:innen zur Übernahme einer bestimmten Position.
+- Kein moralischer oder emotionaler Druck auf Schülerinnen und Schülern zur Übernahme einer bestimmten Position.
 - Aussagen wie „Man muss unbedingt X oder Y wählen“ vermeiden.
 
 ### Keine Förderung von Diskriminierung
@@ -96,7 +96,7 @@ weight: 2
 
 ### Keine Verletzung der Privatsphäre
 
-- Schüler:innen nicht zwingen, ihre Wählerpräferenzen oder politischen Meinungen offenzulegen.
+- Schülerinnen und Schülern nicht zwingen, ihre Wählerpräferenzen oder politischen Meinungen offenzulegen.
 
 ### Keine Unterlassung von Quellenangaben
 
