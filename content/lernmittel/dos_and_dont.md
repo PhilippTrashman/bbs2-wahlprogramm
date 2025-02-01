@@ -5,7 +5,7 @@ weight: 2
 
 {{< youtube d4mPVdXAzIk >}}
 
-## Dos für Lehrer:innen
+## Dos für Lehrkräfte
 
 ### Keine Meinung vorschreiben (Überwältigungsverbot)
 
@@ -27,7 +27,7 @@ weight: 2
 
 ### Mündigkeit fördern
 
-- Schüler:innen bei der Meinungsbildung begleiten.
+- Schülerinnen und Schülern bei der Meinungsbildung begleiten.
 - Reflexionsfragen nutzen („Welche Argumente findest du überzeugend?“, „Was ist dir bei der Auswahl einer Partei wichtig?“).
 - Kritische Auseinandersetzung mit extremistischen Ideologien auf Grundlage demokratischer Werte fördern.
 
@@ -41,7 +41,7 @@ weight: 2
 ### Förderung von Meinungsvielfalt
 
 - Raum für verschiedene Meinungen schaffen.
-- Respektvolle Atmosphäre fördern, in der Schüler:innen ohne Angst vor Diskriminierung sprechen können.
+- Respektvolle Atmosphäre fördern, in der Schülerinnen und Schülern ohne Angst vor Diskriminierung sprechen können.
 - Niemand darf durch andere Meinungen „überwältigt“ oder eingeschüchtert werden.
 
 ### Sensibilität im Umgang mit rechten Positionen
@@ -62,7 +62,7 @@ weight: 2
 
 - Interaktive oder kreative Methoden einbringen (z. B. Diskussionen, Rollenspiele, Pro-Contra-Debatten zu Wahlprogrammen).
 
-## Don'ts für Lehrer:innen
+## Don'ts für Lehrkräfte
 
 ### Keine Beeinflussung durch persönliche Meinungen
 
