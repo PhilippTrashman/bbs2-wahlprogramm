@@ -32,6 +32,10 @@ Bei ihm gibt es nur klare Antworten: „Ja“ oder „Nein“.
 So kannst du leicht herausfinden, welche Partei am besten zu deinen Ansichten passt.
 - **T*ndern aber mit Parteien kann man hier**: [VoteSwiper](https://www.voteswiper.org/de/deutschland/bundestagswahl-2025)
 
+### Bundestagswahl.ai
+Wahlen sind der Schlüssel zur Mitgestaltung unserer Zukunft – doch Wahlprogramme sind oft lang und kompliziert. Wahlprogramm.ai hilft dabei, politische Programme verständlicher zu machen, indem es komplexe Inhalte mit KI vereinfacht und zugänglich macht. Das Projekt zeigt nicht nur, was Parteien nach der Wahl anstreben, sondern auch, wie Künstliche Intelligenz beim Verstehen politischer Inhalte unterstützen kann. Zudem lädt es dazu ein, selbst mit KI zu experimentieren.  
+- **Probiere es aus und entdecke die Möglichkeiten!**[Wahlprogramm.ai](https://bundestagswahl.ai)
+
 ### Online-Sprechstunden für Lehrkräfte
 Austausch über den Umgang mit Politik im Unterricht – mit besonderem Fokus auf Demokratie, gesellschaftliche Kontroversen und die Anwendung des Beutelsbacher Konsenses.
 
