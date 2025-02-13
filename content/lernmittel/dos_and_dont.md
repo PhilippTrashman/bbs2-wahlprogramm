@@ -13,7 +13,7 @@ weight: 2
 - Schülerinnen und Schülern nicht beeinflussen oder in ihrer freien Meinungsbildung einschränken.
 - Informationen sachlich und ausgewogen präsentieren.
 - Unterschiedliche Perspektiven zu kontroversen Themen darstellen.
-- Rechtswiedrige meinungen natürlich auch als diese darstellen
+- Rechtswiedrige Meinungen natürlich auch als diese darstellen
 
 ### Problematische Inhalte im Kontext einordnen
 
